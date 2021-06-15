@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'udangan.dart';
+import 'panjang.dart';
 
 void main() => runApp(
   MaterialApp(
